@@ -1,0 +1,261 @@
+vehicle,model year, efficiency(kWh/100miles)
+2021 Audi e-tron,2021,43
+2019 Audi e-tron,2019,46
+2021 Audi e-tron Sportback,2021,44
+2020 Audi e-tron Sportback,2020,44
+2012 Azure Dynamics Transit Connect Electric Van,2012,54
+2012 Azure Dynamics Transit Connect Electric Wagon,2012,54
+2011 BMW Active E,2011,33
+2020 BMW i3,2020,30
+2019 BMW i3,2019,30
+2018 BMW i3 (94Ah),2018,29
+2016 BMW i3 BEV,2016,27
+2015 BMW i3 BEV,2015,27
+2014 BMW i3 BEV,2014,27
+2017 BMW i3 BEV (60  Amp-hour battery),2017,27
+2017 BMW i3 BEV (94 Amp-hour battery),2017,29
+2021 BMW i3s,2021,30
+2020 BMW i3s,2020,30
+2019 BMW i3s,2019,30
+2018 BMW i3s (94Ah),2018,30
+2020 BYD e6,2020,47
+2018 BYD e6,2018,47
+2017 BYD e6,2017,47
+2016 BYD e6,2016,47
+2014 BYD e6,2014,54
+2013 BYD e6,2013,54
+2012 BYD e6,2012,54
+2021 Chevrolet Bolt EV,2021,29
+2020 Chevrolet Bolt EV,2020,29
+2019 Chevrolet Bolt EV,2019,28
+2018 Chevrolet Bolt EV,2018,28
+2017 Chevrolet Bolt EV,2017,28
+2016 Chevrolet Spark EV,2016,28
+2015 Chevrolet Spark EV,2015,28
+2014 Chevrolet Spark EV,2014,28
+2013 CODA Automotive CODA,2013,46
+2012 CODA Automotive CODA,2012,46
+2019 Fiat 500e,2019,30
+2018 Fiat 500e,2018,30
+2017 Fiat 500e,2017,30
+2016 Fiat 500e,2016,30
+2015 Fiat 500e,2015,29
+2014 Fiat 500e,2014,29
+2013 Fiat 500e,2013,29
+2002 Ford Explorer USPS Electric,2002,87
+2001 Ford Explorer USPS Electric,2001,87
+2018 Ford Focus Electric,2018,31
+2017 Ford Focus Electric,2017,31
+2016 Ford Focus Electric,2016,32
+2015 Ford Focus Electric,2015,32
+2014 Ford Focus Electric,2014,32
+2013 Ford Focus Electric,2013,32
+2012 Ford Focus Electric,2012,32
+2021 Ford Mustang Mach-E AWD,2021,36
+2021 Ford Mustang Mach-E AWD Extended,2021,37
+2021 Ford Mustang Mach-E RWD,2021,34
+2021 Ford Mustang Mach-E RWD California Route 1,2021,33
+2021 Ford Mustang Mach-E RWD Extended,2021,35
+2001 Ford Ranger Pickup 2WD,2001,58
+2000 Ford Ranger Pickup 2WD,2000,58
+2000 Ford Ranger Pickup 2WD,2000,60
+2001 Ford Th!nk,2001,52
+2019 Honda Clarity EV,2019,30
+2018 Honda Clarity EV,2018,30
+2017 Honda Clarity EV,2017,30
+2014 Honda Fit EV,2014,29
+2013 Honda Fit EV,2013,29
+2020 Hyundai Ioniq Electric,2020,25
+2019 Hyundai Ioniq Electric,2019,25
+2018 Hyundai Ioniq Electric,2018,25
+2017 Hyundai Ioniq Electric,2017,25
+2020 Hyundai Kona Electric,2020,27
+2019 Hyundai Kona Electric,2019,28
+2020 Jaguar I-Pace,2020,44
+2019 Jaguar I-Pace,2019,44
+2021 Kandi K27,2021,30
+2020 Kia Niro Electric,2020,30
+2019 Kia Niro Electric,2019,30
+2020 Kia Soul Electric,2020,29
+2019 Kia Soul Electric,2019,31
+2018 Kia Soul Electric,2018,31
+2017 Kia Soul Electric,2017,32
+2016 Kia Soul Electric,2016,32
+2015 Kia Soul Electric,2015,32
+2015 Mercedes-Benz B-Class Electric Drive,2015,40
+2014 Mercedes-Benz B-Class Electric Drive,2014,40
+2017 Mercedes-Benz B250e,2017,40
+2016 Mercedes-Benz B250e,2016,40
+2021 MINI Cooper SE Hardtop 2 door,2021,31
+2020 MINI Cooper SE Hardtop 2 door,2020,31
+2008 MINI MiniE,2008,34
+2017 Mitsubishi i-MiEV,2017,30
+2016 Mitsubishi i-MiEV,2016,30
+2014 Mitsubishi i-MiEV,2014,30
+2013 Mitsubishi i-MiEV,2013,30
+2012 Mitsubishi i-MiEV,2012,30
+2000 Nissan Altra EV,2000,40
+2001 Nissan Hyper-Mini,2001,45
+2018 Nissan Leaf,2018,30
+2017 Nissan Leaf,2017,30
+2015 Nissan Leaf,2015,30
+2014 Nissan Leaf,2014,30
+2013 Nissan Leaf,2013,29
+2012 Nissan Leaf,2012,34
+2011 Nissan Leaf,2011,34
+2016 Nissan Leaf (24 kW-hr battery pack),2016,30
+2016 Nissan Leaf (30 kW-hr battery pack),2016,30
+2021 Nissan Leaf (40 kW-hr battery pack),2021,30
+2020 Nissan Leaf (40 kW-hr battery pack),2020,30
+2019 Nissan Leaf (40 kW-hr battery pack),2019,30
+2021 Nissan Leaf (62 kW-hr battery pack),2021,31
+2020 Nissan Leaf (62 kW-hr battery pack),2020,31
+2019 Nissan Leaf (62 kW-hr battery pack),2019,31
+2021 Nissan Leaf SV/SL (62 kW-hr battery pack),2021,32
+2020 Nissan Leaf SV/SL (62 kW-hr battery pack),2020,32
+2019 Nissan Leaf SV/SL (62 kW-hr battery pack),2019,32
+2021 Polestar 2,2021,37
+2021 Porsche Taycan 4S Perf Battery,2021,42
+2021 Porsche Taycan 4S Perf Battery Plus,2021,43
+2020 Porsche Taycan 4S Perf Battery Plus,2020,49
+2020 Porsche Taycan Turbo,2020,49
+2020 Porsche Taycan Turbo S,2020,50
+2013 Scion iQ EV,2013,28
+2019 smart EQ fortwo (convertible),2019,33
+2019 smart EQ fortwo (coupe),2019,31
+2011 smart fortwo electric drive cabriolet,2011,39
+2018 smart fortwo electric drive convertible,2018,33
+2017 smart fortwo electric drive convertible,2017,33
+2016 smart fortwo electric drive convertible,2016,32
+2015 smart fortwo electric drive convertible,2015,32
+2014 smart fortwo electric drive convertible,2014,32
+2013 smart fortwo electric drive convertible,2013,32
+2018 smart fortwo electric drive coupe,2018,31
+2017 smart fortwo electric drive coupe,2017,31
+2016 smart fortwo electric drive coupe,2016,32
+2015 smart fortwo electric drive coupe,2015,32
+2014 smart fortwo electric drive coupe,2014,32
+2013 smart fortwo electric drive coupe,2013,32
+2011 smart fortwo electric drive coupe,2011,39
+2020 Tesla Model 3 Long Range,2020,26
+2019 Tesla Model 3 Long Range,2019,26
+2018 Tesla Model 3 Long Range,2018,26
+2017 Tesla Model 3 Long Range,2017,27
+2018 Tesla Model 3 Long Range  AWD,2018,29
+2018 Tesla Model 3 Long Range  AWD Performance,2018,29
+2021 Tesla Model 3 Long Range AWD,2021,25
+2020 Tesla Model 3 Long Range AWD,2020,28
+2019 Tesla Model 3 Long Range AWD,2019,29
+2019 Tesla Model 3 Long Range AWD Performance,2019,29
+2020 Tesla Model 3 Long Range Performance AWD (18in),2020,28
+2020 Tesla Model 3 Long Range Performance AWD (19in),2020,29
+2020 Tesla Model 3 Long Range Performance AWD (20in),2020,30
+2020 Tesla Model 3 Mid Range,2020,27
+2019 Tesla Model 3 Mid Range,2019,27
+2018 Tesla Model 3 Mid Range,2018,27
+2021 Tesla Model 3 Performance AWD,2021,30
+2020 Tesla Model 3 Standard Range,2020,26
+2019 Tesla Model 3 Standard Range,2019,26
+2020 Tesla Model 3 Standard Range Plus,2020,24
+2019 Tesla Model 3 Standard Range Plus,2019,25
+2012 Tesla Model S,2012,38
+2013 Tesla Model S (40 kW-hr battery pack),2013,36
+2017 Tesla Model S (60 kW-hr battery pack),2017,34
+2016 Tesla Model S (60 kW-hr battery pack),2016,34
+2015 Tesla Model S (60 kW-hr battery pack),2015,35
+2014 Tesla Model S (60 kW-hr battery pack),2014,35
+2013 Tesla Model S (60 kW-hr battery pack),2013,35
+2016 Tesla Model S (70 kW-hr battery pack),2016,38
+2017 Tesla Model S (75 kW-hr battery pack),2017,34
+2016 Tesla Model S (75 kW-hr battery pack),2016,34
+2016 Tesla Model S (85 kW-hr battery pack),2016,38
+2015 Tesla Model S (85 kW-hr battery pack),2015,38
+2014 Tesla Model S (85 kW-hr battery pack),2014,38
+2013 Tesla Model S (85 kW-hr battery pack),2013,38
+2016 Tesla Model S (90 kW-hr battery pack),2016,38
+2015 Tesla Model S (90 kW-hr battery pack),2015,38
+2019 Tesla Model S 100D,2019,33
+2018 Tesla Model S 100D,2018,33
+2019 Tesla Model S 75D,2019,33
+2018 Tesla Model S 75D,2018,33
+2018 Tesla Model S 75kWh,2018,34
+2014 Tesla Model S AWD (85 kW-hr battery pack),2014,38
+2017 Tesla Model S AWD - 100D,2017,33
+2017 Tesla Model S AWD - 60D,2017,32
+2016 Tesla Model S AWD - 60D,2016,32
+2016 Tesla Model S AWD - 70D,2016,33
+2015 Tesla Model S AWD - 70D,2015,33
+2017 Tesla Model S AWD - 75D,2017,33
+2016 Tesla Model S AWD - 75D,2016,33
+2016 Tesla Model S AWD - 85D,2016,34
+2015 Tesla Model S AWD - 85D,2015,34
+2017 Tesla Model S AWD - 90D,2017,32
+2016 Tesla Model S AWD - 90D,2016,33
+2015 Tesla Model S AWD - 90D,2015,34
+2017 Tesla Model S AWD - P100D,2017,35
+2016 Tesla Model S AWD - P100D,2016,35
+2016 Tesla Model S AWD - P85D,2016,36
+2015 Tesla Model S AWD - P85D,2015,36
+2017 Tesla Model S AWD - P90D,2017,35
+2016 Tesla Model S AWD - P90D,2016,35
+2015 Tesla Model S AWD - P90D,2015,36
+2020 Tesla Model S Long Range,2020,30
+2019 Tesla Model S Long Range,2019,30
+2020 Tesla Model S Long Range Plus,2020,29
+2019 Tesla Model S P100D,2019,35
+2018 Tesla Model S P100D,2018,35
+2021 Tesla Model S Performance (19in Wheels),2021,31
+2020 Tesla Model S Performance (19in Wheels),2020,32
+2019 Tesla Model S Performance (19in Wheels),2019,32
+2021 Tesla Model S Performance (21in Wheels),2021,35
+2020 Tesla Model S Performance (21in Wheels),2020,35
+2019 Tesla Model S Performance (21in Wheels),2019,35
+2020 Tesla Model S Standard Range,2020,31
+2019 Tesla Model S Standard Range,2019,31
+2019 Tesla Model X 100D,2019,39
+2018 Tesla Model X 100D,2018,39
+2019 Tesla Model X 75D,2019,36
+2018 Tesla Model X 75D,2018,36
+2017 Tesla Model X AWD - 100D,2017,39
+2017 Tesla Model X AWD - 60D,2017,36
+2016 Tesla Model X AWD - 60D,2016,36
+2017 Tesla Model X AWD - 75D,2017,36
+2016 Tesla Model X AWD - 75D,2016,36
+2017 Tesla Model X AWD - 90D,2017,37
+2016 Tesla Model X AWD - 90D,2016,37
+2017 Tesla Model X AWD - P100D,2017,39
+2016 Tesla Model X AWD - P100D,2016,39
+2017 Tesla Model X AWD - P90D,2017,38
+2016 Tesla Model X AWD - P90D,2016,38
+2020 Tesla Model X Long Range,2020,35
+2019 Tesla Model X Long Range,2019,35
+2021 Tesla Model X Long Range Plus,2021,32
+2020 Tesla Model X Long Range Plus,2020,32
+2019 Tesla Model X P100D,2019,40
+2018 Tesla Model X P100D,2018,40
+2021 Tesla Model X Performance (20in Wheels),2021,35
+2020 Tesla Model X Performance (20in Wheels),2020,38
+2021 Tesla Model X Performance (22in Wheels),2021,39
+2020 Tesla Model X Performance (22in Wheels),2020,43
+2019 Tesla Model X Performance (22in Wheels),2019,43
+2020 Tesla Model X Standard Range,2020,33
+2021 Tesla Model Y Long Range AWD,2021,27
+2020 Tesla Model Y Long Range AWD,2020,28
+2021 Tesla Model Y Performance AWD,2021,30
+2020 Tesla Model Y Performance AWD,2020,28
+2020 Tesla Model Y Performance AWD (21in Wheels),2020,30
+2014 Toyota RAV4 EV,2014,44
+2013 Toyota RAV4 EV,2013,44
+2012 Toyota RAV4 EV,2012,44
+2003 Toyota RAV4 EV,2003,43
+2002 Toyota RAV4 EV,2002,43
+2001 Toyota RAV4 EV,2001,47
+2000 Toyota RAV4 EV,2000,47
+2019 Volkswagen e-Golf,2019,28
+2018 Volkswagen e-Golf,2018,28
+2017 Volkswagen e-Golf,2017,28
+2016 Volkswagen e-Golf,2016,29
+2015 Volkswagen e-Golf,2015,29
+2021 Volkswagen ID.4 1st,2021,35
+2021 Volkswagen ID.4 Pro S,2021,35
+2021 Volvo XC40 AWD BEV,2021,43
